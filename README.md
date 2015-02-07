@@ -1,4 +1,4 @@
-# Tetris.Hell
+#Tetris.Hell
 - Implemented in Java, a game of Tetris with the incorporation of an AI component. Bootstrapped from an assignment in CS108 of Stanford. Written in DevFest 2015@Columbia University. 
 =================================================
 ##Components 
