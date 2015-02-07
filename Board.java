@@ -151,19 +151,6 @@ public class Board {
         return rowsCleared;
     }
 
-
-    /**
-     * Reverts the board to its state before up to one place
-     * and one clearRows();
-     * If the conditions for undo() are not met, such as
-     * calling undo() twice in a row, then the second undo() does nothing.
-     * See the overview docs.
-     */
-    public void undo() {
-        // YOUR CODE HERE
-    }
-
-
     /**
      * Puts the board in the committed state.
      */
